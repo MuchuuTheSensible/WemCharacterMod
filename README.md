@@ -2,6 +2,7 @@
 Wem is an ethereal, psychic- inspired (and really just is "Mew" from the pokemon franchise. A character with a rich set of mechanics and abilities
 Psychic Energy system, let's get creative while keeping it balanced and engaging.
 Flat base 100 on all three stats
+        
         Wem's Psychic Mechanics
         Sanity Mechanics:
 
