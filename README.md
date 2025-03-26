@@ -100,7 +100,7 @@ Second Skill: Wem's helmet gains immunity to sleep, and knockback, providing enh
 
 Lunar Affinity:
 
-First Skill: Wem can craft armor that transforms him into the Stellar type, which adds damage to all Shadow, Bug, and Ghost creatures, amplifying his offensive potential. 90% resistance and 10 planar. Crafted and repaired with pure brilliance.
+First Skill: Wem can craft armor that transforms him into the Stellar type, which adds damage to all Shadow, Bug, and Ghost creatures, amplifying his offensive potential. 80% resistance and 10 planar. Crafted and repaired with pure brilliance.
 
 Second Skill: Wem's armor gains 6 inventory slots capable of storing any item. Additionally, Psychic Energies placed in these slots can stack up to 40 versus the normal limit of 20. Psychic energy will not be removed after unequip. This skill adds a Special Ability: Unlocks Tera Starstorm, a planar AoE (area-of-effect) attack that deals significant damage to Shadow and Lunar creatures. To maintain balance, this ability requires a cooldown and consumes Psychic Energies as a resource. After use, Wem experiences a brief reduction in defense to reflect the energy expended
 
