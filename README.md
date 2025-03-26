@@ -90,6 +90,24 @@ This extra damage bypasses armor and cannot be reduced in any way.
 
 This mirrors Walter's allergy to bees mechanic.
 
+        Memo: Wems' Skill Tree Alignments and Abilities
+
+Shadow Alignment:
+
+First Skill: Wem can craft a specialized helmet that terastalizes Wem into "Dark type." This grants Wem a 20% resistance to all damage from Bug, Dark, and Ghost sources.
+
+Second Skill: Wem's helmet gains immunity to sleep, stunlock, and knockback, providing enhanced survivability in intense encounters.
+
+Lunar Affinity:
+
+First Skill: Wem can craft armor or a weapon that transforms him into the Stellar type, which adds damage to all Shadow, Bug, and Ghost attacks, amplifying his offensive potential.
+
+Second Skill: Wem's armor gains 6 inventory slots capable of storing any item. Additionally, Psychic Energies placed in these slots can stack up to 40 versus the normal limit of 20. This skill addsa Special Ability: Unlocks Tera Starstorm, a planar AoE (area-of-effect) attack that deals significant damage to Shadow and Lunar creatures. To maintain balance, this ability requires a cooldown and consumes Psychic Energies as a resource. After use, Wem experiences a brief reduction in defense to reflect the energy expended
+
+Final Shared Skill:
+
+Wem unlocks the ability to use a special Z move, "Genesis Order," as the ultimate skill, completing his skill tree.
+
     Would like to see implemented but not vital:
     TM System Proposal: and Unnatural Portal Ability
     
