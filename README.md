@@ -94,13 +94,13 @@ This mirrors Walter's allergy to bees mechanic.
 
 Shadow Alignment:
 
-First Skill: Wem can craft a specialized helmet that terastalizes Wem into "Dark type." This grants Wem a 20% resistance to all damage from Bug, Dark, and Ghost sources.
+First Skill: Wem can craft a specialized helmet that terastalizes Wem into "Dark type." This grants Wem a 20% resistance to all damage from Bug, Dark, and Ghost sources. In addition to is already established defences. 80% resistance and 10 planar. Crafted and repaired with pure horror.
 
-Second Skill: Wem's helmet gains immunity to sleep, stunlock, and knockback, providing enhanced survivability in intense encounters.
+Second Skill: Wem's helmet gains immunity to sleep, and knockback, providing enhanced survivability in intense encounters. Additionally, this skill unlocks the Special Ability: Nasty Plot, which grants Wem a vengeful damage boost with a 1.4 multiplier during nighttime and enhances his survivability with 15 planar defense.
 
 Lunar Affinity:
 
-First Skill: Wem can craft armor or a weapon that transforms him into the Stellar type, which adds damage to all Shadow, Bug, and Ghost attacks, amplifying his offensive potential.
+First Skill: Wem can craft armor that transforms him into the Stellar type, which adds damage to all Shadow, Bug, and Ghost creatures, amplifying his offensive potential. 90% resistance and 10 planar. Crafted and repaired with pure brilliance.
 
 Second Skill: Wem's armor gains 6 inventory slots capable of storing any item. Additionally, Psychic Energies placed in these slots can stack up to 40 versus the normal limit of 20. Psychic energy will not be removed after unequip. This skill adds a Special Ability: Unlocks Tera Starstorm, a planar AoE (area-of-effect) attack that deals significant damage to Shadow and Lunar creatures. To maintain balance, this ability requires a cooldown and consumes Psychic Energies as a resource. After use, Wem experiences a brief reduction in defense to reflect the energy expended
 
