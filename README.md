@@ -102,7 +102,7 @@ Lunar Affinity:
 
 First Skill: Wem can craft armor or a weapon that transforms him into the Stellar type, which adds damage to all Shadow, Bug, and Ghost attacks, amplifying his offensive potential.
 
-Second Skill: Wem's armor gains 6 inventory slots capable of storing any item. Additionally, Psychic Energies placed in these slots can stack up to 40 versus the normal limit of 20. This skill addsa Special Ability: Unlocks Tera Starstorm, a planar AoE (area-of-effect) attack that deals significant damage to Shadow and Lunar creatures. To maintain balance, this ability requires a cooldown and consumes Psychic Energies as a resource. After use, Wem experiences a brief reduction in defense to reflect the energy expended
+Second Skill: Wem's armor gains 6 inventory slots capable of storing any item. Additionally, Psychic Energies placed in these slots can stack up to 40 versus the normal limit of 20. Psychic energy will not be removed after unequip. This skill adds a Special Ability: Unlocks Tera Starstorm, a planar AoE (area-of-effect) attack that deals significant damage to Shadow and Lunar creatures. To maintain balance, this ability requires a cooldown and consumes Psychic Energies as a resource. After use, Wem experiences a brief reduction in defense to reflect the energy expended
 
 Final Shared Skill:
 
